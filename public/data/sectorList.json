@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "sector": "Engineering & Technology"
+  },
+  {
+    "id": 2,
+    "sector": "Computer Science & IT"
+  },
+  {
+    "id": 3,
+    "sector": "Education & Research"
+  },
+  {
+    "id": 4,
+    "sector": "Media & Communication"
+  },
+  {
+    "id": 5,
+    "sector": "Sports"
+  },
+  {
+    "id": 6,
+    "sector": "Agriculture"
+  },
+  {
+    "id": 7,
+    "sector": "Health & Medicine"
+  },
+  { "id": 8, "sector": "Environmental & Earth Sciences" },
+  { "id": 9, "sector": "Space & Aeronautics" },
+  { "id": 10, "sector": "Aviation & Aeronautical Operations" },
+  { "id": 11, "sector": "Arts, Design & Creative Industries" },
+  { "id": 12, "sector": "Law, Governance & Security" }
+]
