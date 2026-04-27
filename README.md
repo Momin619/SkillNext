@@ -36,15 +36,17 @@ The app scores each subfield using salary match (40%), work style (30%), skill o
 
 ## Technologies Used
 
-- **React 19** + **Vite**
-- **Tailwind CSS v4**, shadcn/ui, MUI, PrimeReact
-- **Framer Motion**, GSAP — animations
-- **React Router DOM v7** — routing
-- **React Hook Form** — form handling
-- **Recharts** — charts
-- **Three.js / React Three Fiber** — 3D elements
-- **Lenis** — smooth scroll
-- **Vercel** — deployment
+| Category | Technology |
+|---|---|
+| Framework | React 19 |
+| Build Tool | Vite |
+| Styling | Tailwind CSS v4, shadcn/ui, MUI, PrimeReact |
+| Animations | Framer Motion, GSAP |
+| Routing | React Router DOM v7 |
+| Forms | React Hook Form |
+| Charts | Recharts |
+| 3D | Three.js, React Three Fiber |
+| Smooth Scroll | Lenis |
 
 ---
 
@@ -64,7 +66,7 @@ npm run dev
 ```
 src/
 ├── components/
-    ├── About/        # About
+│   ├── About/        # About
 │   ├── Home/         # Hero, Features, Testimonials, WorkFlow
 │   ├── Career/       # Sector, Fields, Subfield components
 │   ├── CareerForm/   # Multi-step form + skill selection
