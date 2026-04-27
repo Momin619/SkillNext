@@ -1,6 +1,6 @@
 # SkillNext
 
-A frontend career guidance app where users can explore career paths or get personalized recommendations based on their skills and preferences.
+A frontend career guidance website where users can explore career paths or get personalized recommendations based on their skills and preferences.
 
 > ⚠️ Practice project — SkillNext is a fictional company, not a real service.
 
@@ -76,7 +76,3 @@ src/
 ├── data/             # Sector/field/subfield JSON data
 └── styles/           # Global CSS + Tailwind entry
 ```
-
----
-
-🔗 Live Demo — [add your Vercel link here]
